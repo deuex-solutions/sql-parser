@@ -1,6 +1,6 @@
 {
-  "name": "sql-parser",
-  "version": "1.0.0",
+  "name": "sql-hive-parser",
+  "version": "1.0.1",
   "description": "Parse sql or hive query",
   "main": "index.js",
   "scripts": {
@@ -25,5 +25,6 @@
   "homepage": "https://github.com/deuex-solutions/sql-parser#readme",
   "dependencies": {
     "knockout": "^3.5.1"
-  }
+  },
+  "devDependencies": {}
 }
